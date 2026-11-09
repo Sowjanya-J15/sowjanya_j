@@ -1,18 +1,19 @@
-# Sowjanya J
+# Hi, I'm Sowjanya 
 
-First-year CSE student learning Python, C, and the basics of programming.
+1st year CSE student at St.Joseph's College of Engineering.
 
-## About This Repository
-This repository contains my practice programs and small projects as I learn programming.
+## About me
+- Learning C
+- Know the basics of SQL and Python.
+- Interested problem solving
 
-## Technologies
-- Python
-- C Programming
 
-## What I'm Learning
-- Variables, loops, and functions
-- Problem solving
-- Basics of data structures
+## What I'm working on
+- Building my first small projects in C and Python
+- Practicing problem solving
 
-## Author
-Sowjanya J
+## Projects
+- Coming soon
+
+## Skills
+C | Python | SQl | Problem solving
